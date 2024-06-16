@@ -1,0 +1,3 @@
+[submodule "submodules/multiversal-landscape"]
+	path = submodules/multiversal-landscape
+	url = https://github.com/jacobpie/multiversal-landscape.git
